@@ -1,0 +1,19 @@
+.country{
+    border: 1px solid greenyellow;
+    margin: 10px;
+    padding:10px ;
+}
+.country img{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}
+.country h4{
+    margin: 10px;
+    padding: 5px;
+}
+.country p{
+    color:blueviolet;
+    padding :5px;
+    margin: 10px;
+}
